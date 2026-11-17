@@ -1,272 +1,249 @@
+
 <div align="center">
 
-# Suvrat Joshi
+# Hi, I'm Suvrat Joshi 👋
 
-### AI/ML Engineering · Natural Language Processing · Intelligent Systems
+### AI/ML Engineering · NLP & Transformers · Applied Machine Learning
 
-**Building research-driven machine learning systems — from model development to real-world applications.**
+Building intelligent systems that bridge **machine learning research, deep learning, and practical software engineering.**
 
-<p>
-  <a href="https://github.com/SuvratJoshi2275">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suvrat-joshi-70398028b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:subbu14great@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="tel:+919116340778">
-    <img src="https://img.shields.io/badge/Contact%20Me-00897B?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me"/>
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/SuvratJoshi2275">
+  <img src="https://img.shields.io/badge/GitHub-SuvratJoshi2275-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/suvrat-joshi-70398028b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:subbu14great@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="tel:+919116340778">
+  <img src="https://img.shields.io/badge/Phone-Call%20Me-00897B?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
+</a>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science Engineering (Hons.) student specializing in Artificial Intelligence and Machine Learning at UPES**, with a strong interest in developing intelligent systems that bridge machine learning research and practical software engineering.
+I'm a **B.Tech Computer Science Engineering (Hons.) — AI/ML** student at the **University of Petroleum & Energy Studies (UPES)**, interested in developing intelligent systems that move beyond isolated models into complete, usable applications.
 
-My work focuses on **deep learning, natural language processing, transformer architectures, recommendation systems, and applied machine learning**.
+My interests span:
 
-I enjoy exploring how models learn meaningful representations from complex data, designing reproducible experiments, and integrating trained models into usable applications.
+- 🧠 **Machine Learning & Deep Learning** — Neural architectures, representation learning, and model optimization.
+- 🗣️ **NLP & Transformers** — Contextual embeddings, multilingual models, and language understanding.
+- ⚽ **Graph Learning & Football Analytics** — Player interactions, tactical relationships, and graph-based modeling.
+- 🎯 **Recommendation Systems** — Collaborative learning, semantic retrieval, and personalized ranking.
+- 👁️ **Computer Vision** — Transfer learning and image classification.
+- 🔎 **Applied AI Research** — Reproducible experiments, evaluation, and end-to-end ML applications.
 
-Currently developing two major research-oriented platforms:
+Currently developing **SquadSync** and **Contexta**, two research-oriented platforms exploring football intelligence and multilingual NLP.
 
-- **SquadSync** — Football tactical intelligence and graph-based player analytics.
-- **Contexta** — Context-aware multilingual NLP using transformer-based word sense disambiguation, language identification, and neural translation.
-
-Beyond these, I've worked on transformer-based text classification, hybrid recommendation systems, and computer vision.
+I enjoy working across the complete ML lifecycle — from dataset preparation and experimentation to model evaluation, inference integration, and interactive applications.
 
 ---
 
-## Technical Stack
+## 🛠️ Tech Stack
 
-### Machine Learning & Deep Learning
+### AI / Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
 </p>
 
 ### NLP, Transformers & Representation Learning
 
 <p>
-<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/XLM--RoBERTa-Multilingual%20NLP-345995?style=flat-square"/>
-<img src="https://img.shields.io/badge/LoRA-Parameter%20Efficient%20Fine--Tuning-0D9488?style=flat-square"/>
-<img src="https://img.shields.io/badge/DistilBERT-Text%20Classification-475569?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sentence--BERT-Semantic%20Embeddings-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+<img src="https://img.shields.io/badge/XLM--RoBERTa-Multilingual%20NLP-345995?style=flat-square" alt="XLM-RoBERTa">
+<img src="https://img.shields.io/badge/LoRA-Parameter--Efficient%20Fine--Tuning-0D9488?style=flat-square" alt="LoRA">
+<img src="https://img.shields.io/badge/DistilBERT-Text%20Classification-475569?style=flat-square" alt="DistilBERT">
+<img src="https://img.shields.io/badge/Sentence--BERT-Semantic%20Embeddings-6C63FF?style=flat-square" alt="Sentence-BERT">
 </p>
 
-### Data Science & Applications
+### Data & Applications
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ### Development & Research Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 01 — SquadSync
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Football Tactical Intelligence & Graph-Based Analytics**
+### ⚽ SquadSync
 
-A football analytics and tactical decision-support platform designed to investigate player performance, positional roles, passing relationships, and tactical complementarity.
+**Football Tactical Intelligence & Analytics Platform**
 
-The project explores how individual player features and team-level interactions can be represented through neural networks and graph-based learning.
+Analyzes football event data to model player performance, positional roles, passing networks, and tactical relationships through dedicated Fan and Coach workflows.
 
-**Research & Engineering**
+`Python` `PyTorch` `GNN` `Streamlit` `Plotly` `StatsBomb`
 
-- Player-level feature engineering and tactical role analysis.
-- Passing networks represented as directed player interaction graphs.
-- Feedforward neural networks for player-role classification.
-- Graph neural networks for relational representation learning.
-- Tactical pairing and formation-aware analytics.
-- Interactive research workflows for match, player, and team analysis.
+**Current:** Tactical analytics and neural modeling research.
 
-**Stack:** `Python` · `PyTorch` · `GNN` · `GCN` · `Pandas` · `Streamlit` · `Plotly` · `StatsBomb`
+**Next:** Graph-based player complementarity and formation-aware intelligence.
 
-**Status:** Active development — football intelligence and tactical modeling.
+<a href="https://github.com/SuvratJoshi2275/SquadSync">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View SquadSync">
+</a>
 
-[![Explore SquadSync](https://img.shields.io/badge/Explore%20SquadSync-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SuvratJoshi2275/SquadSync)
+</td>
+<td width="50%" valign="top">
 
----
-
-### 02 — Contexta
+### 🧠 Contexta
 
 **Context-Aware Multilingual Intelligence**
 
-A multilingual NLP research platform that investigates lexical ambiguity, contextual meaning, Hindi–English code-mixed language identification, and neural machine translation.
+A multilingual NLP research platform combining contextual word sense disambiguation, Hindi–English language identification, and experimental neural machine translation.
 
-Contexta combines interpretable linguistic rules with classical machine learning and transformer-based contextual representations to build a unified NLP research environment.
+`XLM-RoBERTa` `LoRA` `MarianMT` `FastAPI` `Streamlit`
 
-**Research & Engineering**
+**Research:** 20 notebooks · 35 ambiguous words · 3 NLP tasks.
 
-- Curated bilingual inventory of **35 ambiguous English words**.
-- Dictionary and contextual rule-based word sense disambiguation.
-- XLM-RoBERTa with LoRA for contextual sense classification.
-- Hybrid neural/rule-based inference with confidence-based fallback.
-- Token-level Hindi–English language identification using Comi-Lingua.
-- Fine-tuned MarianMT for experimental English–Hindi translation.
-- Model evaluation, ablation studies, and error analysis across **20 research notebooks**.
-- FastAPI inference services with Streamlit and React interfaces.
+**Models:** Hybrid WSD, token-level LID, and English–Hindi NMT.
 
-**Selected research results**
+<a href="https://github.com/SuvratJoshi2275/Contexta">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Contexta">
+</a>
 
-| Task | Model | Evaluation |
-|---|---|---|
-| Word Sense Disambiguation | XLM-R LoRA | 98.39% accuracy |
-| Code-Mixed Language ID | TF-IDF + Logistic Regression | 94.81% accuracy |
-| English–Hindi Translation | Fine-tuned MarianMT | 9.92 SacreBLEU |
+</td>
+</tr>
 
-*WSD was evaluated on a 62-example custom test partition; LID on 91,173 held-out tokens; translation on 300 held-out pairs. These are task-specific experimental results, not general-purpose performance claims.*
+<tr>
+<td width="50%" valign="top">
 
-**Stack:** `Python` · `PyTorch` · `XLM-RoBERTa` · `LoRA` · `Transformers` · `Scikit-learn` · `MarianMT` · `FastAPI` · `Streamlit`
+### 🧠 Mental Health Text Classification
 
-**Status:** Active research — model integration, multilingual evaluation, and application refinement.
+**Transformer-Based NLP — IBM Internship**
 
-[![Explore Contexta](https://img.shields.io/badge/Explore%20Contexta-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SuvratJoshi2275/Contexta)
+Fine-tuned **DistilBERT** for multi-class classification of emotional and psychological indicators in text.
 
----
+`DistilBERT` `Transformers` `NLP` `Classification`
 
-### 03 — Mental Health Text Classification
+Includes preprocessing, tokenization, class balancing, and evaluation using precision, recall, and F1-score.
 
-**Transformer-Based NLP | IBM AI/ML Internship**
+**Repository coming soon.**
 
-A transformer-based text classification project focused on identifying emotional and psychological indicators from textual data.
+</td>
+<td width="50%" valign="top">
 
-Built using a fine-tuned DistilBERT architecture, with emphasis on supervised classification, preprocessing, and systematic model evaluation.
+### 🎵 LyricLens
 
-**Research & Engineering**
+**Hybrid Music Recommendation System**
 
-- DistilBERT fine-tuning for multi-class text classification.
-- Text preprocessing and transformer tokenization.
-- Class imbalance handling and supervised learning.
-- Model evaluation using precision, recall, and F1-score.
-- Analysis of classification behavior on noisy text.
+Combines collaborative signals with semantic lyric representations through a trainable PyTorch recommendation architecture.
 
-**Stack:** `Python` · `PyTorch` · `DistilBERT` · `Transformers` · `NLP` · `Scikit-learn`
+`PyTorch` `Sentence-BERT` `NLP` `Embeddings`
 
-**Status:** Internship project — repository not yet published.
+Includes hybrid representation learning, semantic retrieval, and ranking-based evaluation using Recall@K and NDCG@K.
 
----
+<a href="https://github.com/SuvratJoshi2275/LyricLens">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View LyricLens">
+</a>
 
-### 04 — LyricLens
+</td>
+</tr>
+</table>
 
-**Hybrid Music Recommendation & Semantic Retrieval**
+### 🐔 Other Projects — Chicken Disease Classification
 
-A hybrid music recommendation system combining collaborative information with semantic representations learned from song lyrics.
+**Transfer Learning Image Classifier**
 
-The project explores how contextual embeddings and trainable neural architectures can improve music similarity modeling and recommendation ranking.
+A computer vision system using **MobileNetV2** transfer learning for multi-class poultry disease classification.
 
-**Research & Engineering**
+Trained on **8,000+ augmented images**, achieving approximately **92% reported classification accuracy**.
 
-- Semantic lyric representation using Sentence-BERT.
-- Collaborative and content-based signal integration.
-- Trainable PyTorch recommendation architecture.
-- Embedding-based similarity and semantic retrieval.
-- Ranking evaluation using Recall@K and NDCG@K.
+`TensorFlow` `Keras` `MobileNetV2` `Computer Vision`
 
-**Stack:** `Python` · `PyTorch` · `Sentence-BERT` · `NLP` · `Embeddings` · `Recommendation Systems`
-
-[![Explore LyricLens](https://img.shields.io/badge/Explore%20LyricLens-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SuvratJoshi2275/LyricLens)
+<a href="https://github.com/SuvratJoshi2275/Chicken-Disease-Image-classification">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github" alt="View Chicken Disease Classification">
+</a>
 
 ---
 
-### Other Work — Chicken Disease Classification
-
-**Computer Vision | Transfer Learning**
-
-Developed a multi-class poultry disease image classifier using MobileNetV2 transfer learning, trained on more than 8,000 augmented images.
-
-**Reported classification accuracy:** approximately 92%.
-
-**Stack:** `TensorFlow` · `Keras` · `MobileNetV2` · `Computer Vision`
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/SuvratJoshi2275/Chicken-Disease-Image-classification)
-
----
-
-## Professional Experience
+## 💼 Professional Experience
 
 ### IBM — AI/ML Intern
 
-**Project: Mental Health Monitoring via Text Analysis**
+**Mental Health Monitoring via Text Analysis**
 
-- Developed transformer-based multi-class NLP classification workflows.
-- Fine-tuned DistilBERT for text representation and prediction.
-- Implemented preprocessing, tokenization, and class-balancing techniques.
-- Evaluated model performance using classification metrics and error analysis.
+- Fine-tuned DistilBERT for multi-class NLP classification.
+- Developed preprocessing and transformer tokenization pipelines.
+- Worked with class-balancing strategies for noisy textual data.
+- Evaluated model performance using precision, recall, F1-score, and error analysis.
 
 ### Kailapira — Strategy & Research Intern
 
 - Conducted market, sector, and competitive research.
 - Supported market-entry and partnership strategy development.
-- Analyzed business opportunities and industry positioning.
-- Produced structured research and strategic insights.
+- Analyzed industry positioning and business opportunities.
+- Produced structured research findings and strategic insights.
 
 ---
 
-## Education
+## 🎓 Education
 
 **University of Petroleum & Energy Studies (UPES)**
 
 B.Tech Computer Science Engineering (Hons.) — Artificial Intelligence & Machine Learning
 
-Additional exploratory coursework in Aerospace Engineering.
+Additional exploratory coursework in **Aerospace Engineering**.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuvratJoshi2275&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuvratJoshi2275&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvratJoshi2275&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvratJoshi2275&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages">
 
 </div>
 
 ---
 
-## Connect
+## 📬 Let's Connect
 
 I'm interested in **AI/ML research, NLP systems, deep learning, applied machine learning, and collaborative engineering projects**.
 
 <div align="center">
 
 <a href="mailto:subbu14great@gmail.com">
-  <img src="https://img.shields.io/badge/Email-subbu14great%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-subbu14great%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.linkedin.com/in/suvrat-joshi-70398028b">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="tel:+919116340778">
-  <img src="https://img.shields.io/badge/Phone-%2B91%209116340778-00897B?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  <img src="https://img.shields.io/badge/Phone-%2B91%209116340778-00897B?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
 </a>
 
 </div>
@@ -275,7 +252,7 @@ I'm interested in **AI/ML research, NLP systems, deep learning, applied machine 
 
 <div align="center">
 
-### From research experiments to intelligent systems.
+### Building systems that turn data into useful intelligence.
 
 *Learning representations. Understanding context. Building applications.*
 
